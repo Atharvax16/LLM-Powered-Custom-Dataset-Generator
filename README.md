@@ -158,7 +158,7 @@ Contributions are welcome! Here are some ways you can help:
 
 ### Development Setup
 ```bash
-git clone https://github.com/Atharvaxx16/llm-dataset-generator.git
+git clone https://github.com/Atharvax16/llm-dataset-generator.git
 cd llm-dataset-generator
 pip install -r requirements.txt
 python dataset_generator.py
@@ -191,8 +191,8 @@ python dataset_generator.py
 ## 📞 Support
 
 - 📧 Email: atharvakocharekar0@gmail.com
-- 🐛 Issues: [GitHub Issues](https://github.com/Atharvaxx16/llm-dataset-generator/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/Atharvaxx16/llm-dataset-generator/discussions)
+- 🐛 Issues: [GitHub Issues](https://github.com/Atharvax16/llm-dataset-generator/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/Atharvax16/llm-dataset-generator/discussions)
 
 ---
 
