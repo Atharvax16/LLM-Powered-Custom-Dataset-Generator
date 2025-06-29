@@ -1,0 +1,14 @@
+Just wanted to share the problems I faced
+
+Model Loading Issues:
+- Initially attempted to load large models like LLaMA 3.2 (7B parameters), Mixtral, and Phi-3, but faced out-of-memory errors due to limited GPU memory.
+- Switched to using Qwen 3B parameter model, which fit better within resource constraints.
+
+Quantization:
+- Used quantization techniques (4-bit, 8-bit) to reduce GPU memory footprint and make model inference feasible on limited hardware.
+
+Fine-Tuning Challenges:
+- Encountered stability issues and memory crashes while fine-tuning large models on local GPU.
+- Learned to batch training steps carefully and experiment with lower precision (fp16) training.
+
+These challenges helped shape the decision to build a lightweight, robust system that can work with quantized models in limited environments.
